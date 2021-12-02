@@ -33,6 +33,10 @@ h5 {
   margin: 0 0 5px 0;
 }
 
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+}
 /* Default styles for grid items */
 .item {
   display: grid;
